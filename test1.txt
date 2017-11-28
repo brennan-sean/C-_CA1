@@ -1,0 +1,9 @@
+1,Hercules,Tate Donovan,John Mucker,Animation,2014,6.100000
+2,Magic Mike,Channing Tatum,Steven Soderbergh,Comedy,2013,5.000000
+3,Men at Launch,Ken Johnston,Sean O'Cualain,Documentary,2012,3.000000
+4,Zodiac,Robert Downey Junior,David Finch,Drama,2007,7.700000
+5,Braveheart,Mel Gibson,Mel Gibson,action,1995,8.000000
+6,Need for Speed,Aaron Paul,Scott Waugh,thriller,2014,6.500000
+7,Pulp Fiction,John Travolta,Quentin Tarantino,Thriller,1994,8.900000
+8,Trainspotting,Ewan McGregor,Danny Boyle,Drama,1996,8.200000
+9,Trainspotting 2,Ewan McGregor,Danny Boyle,Drama,2017,7.300000
